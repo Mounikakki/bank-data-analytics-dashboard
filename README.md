@@ -1,6 +1,5 @@
-<img width="384" height="480" alt="TomHanksSpaceGIFbyTV4" src="https://github.com/user-attachments/assets/d83a15a3-6ee0-4059-a36a-f23b51917315" />#  Bank Analytics
-# 🏦 Bank Data Analytics | Banking Performance & Loan Analysis
-
+#  Bank Analytics.
+# 🏦 Bank Analytics Dashboard  ## 📌 Project Overview  The **Bank Analytics Dashboard** is a data analytics project focused on analyzing banking data to help stakeholders monitor **bank performance, customer behavior, loan trends, repayment performance, and financial risks**.
 # 🏦 Bank Analytics Dashboard
 
 # 👨‍💻 Project By 
