@@ -51,3 +51,9 @@ Standardized state names for improved readability and consistency.
 
 These steps help improve data consistency and prepare the data for analysis and visualization.
 
+## Key Performance Indicators (KPIs)
+
+1. Total Loan Amount Funded
+Measures the total value of loans disbursed by the bank.
+
+SUM([Funded Amount])
