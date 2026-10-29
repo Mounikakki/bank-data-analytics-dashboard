@@ -1,14 +1,18 @@
-#  Bank Analytics
+<img width="384" height="480" alt="TomHanksSpaceGIFbyTV4" src="https://github.com/user-attachments/assets/d83a15a3-6ee0-4059-a36a-f23b51917315" />#  Bank Analytics
 # 🏦 Bank Data Analytics | Banking Performance & Loan Analysis
 
 # 🏦 Bank Analytics Dashboard
 
-## Project Overview
+# 👨‍💻 Project By 
+
+  **Mounika Akki**
+
+## 💎 Project Overview
 
 The Bank Data Analytics Project focuses on analyzing banking and loan data to help stakeholders understand bank performance, customer borrowing patterns, loan repayment behavior, and credit risk.
 The project uses SQL for data analysis and explores banking KPIs through Excel, Tableau, and Power BI dashboards. It includes data cleaning, calculated fields, loan performance analysis, and visual reporting to support data-driven decision-making.
 
-## Project Objectives
+## 💎 Project Objectives
 
 Analyze banking and loan data to understand overall business performance.
 Calculate key performance indicators (KPIs).
@@ -19,7 +23,7 @@ Track loan disbursement trends and maturity periods.
 Develop dashboards that make banking information easier to understand.
 Support stakeholders in monitoring portfolio performance and potential credit risks.
 
-## Problem Statement
+## ❗Problem Statement
 
 Banks generate large volumes of customer and loan data. Without appropriate analysis, it can be difficult to identify loan default trends, customer segments, revenue performance, branch efficiency, risky loans, and overall business growth.
 This project aims to transform raw banking data into meaningful information through SQL queries, KPI calculations, and dashboards.
@@ -34,7 +38,7 @@ Overall business growth patterns.
 
 This project addresses these challenges by converting raw banking data into actionable insights through data visualization and analytics.
 
-## Data Cleaning and Preparation
+## 🧹 Data Cleaning and Preparation
 
 The project presentation documents the following data-cleaning activities:
 Removed rows containing missing or null values in important columns.
@@ -51,9 +55,9 @@ Standardized state names for improved readability and consistency.
 
 These steps help improve data consistency and prepare the data for analysis and visualization.
 
-## Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 
 1. Total Loan Amount Funded
 Measures the total value of loans disbursed by the bank.
 
-SUM([Funded Amount])
+SUM(Funded Amount)
