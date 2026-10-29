@@ -39,17 +39,18 @@ This project addresses these challenges by converting raw banking data into acti
 
 ## 🧹 Data Cleaning and Preparation
 
-1.The project presentation documents the following data-cleaning activities:
-2.Removed rows containing missing or null values in important columns.
-3.Removed empty columns that contained no useful data.
-4.Removed a duplicate state-abbreviation column.
-5.Replaced missing values in BH Name with Unknown.
-6.Replaced missing values in Caste with Unknown.
-7.Replaced missing values in Credit Officer Name with Unknown.
-8.Replaced missing values in Disb By with Unknown.
-9.Converted Closed Date to a proper date format.
-10.Converted Date of Birth to a proper date format.
-11.Converted Disbursement Date to a proper date format.
+The project presentation documents the following data-cleaning activities:
+
+1.Removed rows containing missing or null values in important columns.
+2.Removed empty columns that contained no useful data.
+3.Removed a duplicate state-abbreviation column.
+4.Replaced missing values in BH Name with Unknown.
+5.Replaced missing values in Caste with Unknown.
+6.Replaced missing values in Credit Officer Name with Unknown.
+7.Replaced missing values in Disb By with Unknown.
+8.Converted Closed Date to a proper date format.
+9.Converted Date of Birth to a proper date format.
+10.Converted Disbursement Date to a proper date format.
 Standardized state names for improved readability and consistency.
 
 These steps help improve data consistency and prepare the data for analysis and visualization.
