@@ -1,12 +1,12 @@
 #  Bank Analytics.
-
 # 🏦 Bank Analytics Dashboard  ## 💎Project Overview  The **Bank Analytics Dashboard** is a data analytics project focused on analyzing banking data to help stakeholders monitor **bank performance, customer behavior, loan trends, repayment performance, and financial risks**.
-
 # 🏦 Bank Analytics Dashboard
 
-# 👨‍💻 Project By 
+## 👨‍💻 Project By 
 
   **Mounika Akki**
+
+--
 
 ## 💎 Project Overview
 
